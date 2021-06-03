@@ -1,0 +1,24 @@
+name: tustena
+
+on: push
+
+defaults:
+  run:
+    working-directory: ./
+
+jobs:
+  npm-build:
+    name: Test npm build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Install dependency
+        run: npm install
+        shell: bash
+
+      - name: Run build
+        run: npm run build
+        shell: bash
