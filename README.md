@@ -12,7 +12,7 @@ A script that populates an *intervention report* on **Tustena CRM**. You can cre
    * ![Safari](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/safari.png) [Tampermonkey](https://apps.apple.com/us/app/tampermonkey/id1482490089);
    * ![Edge](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s).
 
-2. Directly install it from [Github](https://github.com/Giglium/Tustena-UserScripts/#) by [clicking here](https://github.com/Giglium/Tustena-UserScripts/blob/master/dist/tustena.user.js?raw=true);
+2. Directly install it from [Github](https://github.com/Giglium/Tustena-UserScripts/#) by [clicking here](https://github.com/Giglium/Tustena-UserScript/raw/main/dist/tustena.user.js);
 
 3. Edit the script with your script manager and edit the following:
 
