@@ -1,5 +1,7 @@
 # Tustena UserScript
 
+> **I don't access anymore to a Tustena system, so I'm not able to mantain anymore this userscript! **
+
 A script that populates an *intervention report* on **Tustena CRM**. You can create how many templates you want and every time you can fill the form without any effort.
 
 ## Usage
